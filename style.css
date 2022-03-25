@@ -44,12 +44,12 @@ body{
 .Holiday-Text{
     margin-top: 20px;
     text-align: center;
-    background-image: url(./bg-img.png);
+    background-image: url(./bg-image.png);
     height: -3px;
     font-weight: 600;
     font-size: 35px;
     font-size: medium;
-    color: rgb(4, 42, 4);
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
   
 
@@ -57,13 +57,13 @@ body{
 
 .Gift {
     text-align: center;
-    background-image: url(./bg-img.png);
+    background-image: url(./bg-image.png);
     height: 55px;
     font-size: 10px;
     padding-top: 10px;
     font-weight: 800;
     font-family:serif;
-    color:rgb(4, 42, 4);
+    color: white;
 
 }
 .Shoop {
