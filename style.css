@@ -1,0 +1,176 @@
+body{
+    background-color: rgb(217, 210, 196);
+}
+
+.Top-Border{
+    background-color: rgb(10, 34, 67);
+    height: 50px;
+
+   
+}
+
+.Top-Border img {
+    padding-top: 13px;
+    padding-left: 20px;
+}
+
+.Nav-bar{
+    background-color: rgb(7, 45, 79);
+    margin-bottom: 20px;
+    
+}
+.Nav-bar span{
+    display: inline-block;
+    color: white;
+    height: 10px;
+    font-size:xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 0;
+    margin-left: 20px;
+
+}
+
+.Shop {
+    background-color: rgb(242, 106, 56);
+    color: white;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+
+
+.Holiday-Text{
+    margin-top: 20px;
+    text-align: center;
+    background-image: url(./bg-img.png);
+    height: -3px;
+    font-weight: 600;
+    font-size: 35px;
+    font-size: medium;
+    color: rgb(4, 42, 4);
+    font-family: Arial, Helvetica, sans-serif;
+  
+
+}
+
+.Gift {
+    text-align: center;
+    background-image: url(./bg-img.png);
+    height: 55px;
+    font-size: 10px;
+    padding-top: 10px;
+    font-weight: 800;
+    font-family:serif;
+    color:rgb(4, 42, 4);
+
+}
+.Shoop {
+    height: 300px;
+    margin-top: 20px;
+}
+.Shop1 .Perfect{
+    display: inline;
+    padding-left: 50px;
+    margin-top: 50px; 
+    color: black;  
+    font: small; 
+    font-size: 12px;
+}
+.Shop1 .Shopp{
+    color: cornflowerblue;
+    font: small;
+    font-size: 10px;
+    padding-left: 5px;
+}
+.Shop1 img{
+    margin-left: 20px;
+    margin-right: 20px;
+    /* display: flex; */
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+    width: 255px;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.Shop1 .img-one{
+    margin-left: 45px;
+}
+
+.Shop1 span{ 
+    margin-bottom: 10px;
+
+}
+.Shop2 img{
+    width: 1250px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.Play{
+    text-align: center;
+    font: small;
+    font-size: 13px;
+}
+
+.Play-span{
+    color: rgb(8, 140, 185);
+    padding-left: 10px;
+    font: small;
+    font-size: 10px;
+    
+}
+
+.Shop3 img{
+    width: 1250px;
+    margin-top: 20px;
+    height: 250px;
+}
+
+.Shop-audio {
+    text-align: center;
+    font: small;
+    font-size: 13px;
+
+}
+
+.Shop-audio-shop{
+    color: rgb(8, 140, 185);
+    padding-left: 10px;
+    font: small;
+    font-size: 10px;
+}
+
+.Back-to-top {
+    height: 20px;
+    background-color: rgb(10, 48, 99);
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 5px;
+    font-size: 10px;
+    font: small;
+
+}
+
+.Back-to-top a {
+    color: white;
+    
+}
+
+.Bottom-Logo {
+    height: 100px;
+    background-color: rgb(10, 34, 67);
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+
+}
+
+.Bottom-Logo img {
+    
+    height: 30px;
+}
